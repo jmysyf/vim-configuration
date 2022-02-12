@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/shawn/vibe-rv1126/tools/log'
+let g:netrw_dirhist_5='/home/shawn/.config/upgrade_tool/log'
+let g:netrw_dirhist_4='/home/shawn/.config/upgrade_tools'
+let g:netrw_dirhist_3='/home/shawn/vibe-rv1126/log'
+let g:netrw_dirhist_2='/home/shawn/vibe-rv1126/buildroot/package/rockchip/vibe_camera'
+let g:netrw_dirhist_1='/home/shawn/vibe-rv1126/buildroot/package/rockchip/vibe_uvc'
+let g:netrw_dirhist_0='/home/shawn/vibe-rv1126/buildroot/output/rockchip_rv1126_rv1109_vibe_devkit/oem'
+let g:netrw_dirhist_9='/home/shawn/vibe-rv1126/external/rkmedia/examples'
+let g:netrw_dirhist_8='/home/shawn/vibe-rv1126/external/uvc_app/process'
+let g:netrw_dirhist_7='/home/shawn/vibe-rv1126/external/uvc_app'
