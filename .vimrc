@@ -113,7 +113,7 @@ set laststatus=2        " 是否显示状态栏(0,1,2)
 set ruler               " 在状态栏显示当前光标坐标
 set showmode            " 底行显示当前处于哪种模式
 set showcmd             " 命令模式下,在底行显示键入的指令
-set mouse=n           " 鼠标模式(n,v,i,c,h,a,r,A)
+set mouse=r           " 鼠标模式(n,v,i,c,h,a,r,A)
 set scrolloff=7         " 垂直滚动时光标距离顶部/底部的行数
 set sidescrolloff=7     " 水平滚动时光标距离边缘的字符数
 set showmatch           " 光标遇到括号时自动高亮对应的另一个括号
